@@ -1,6 +1,6 @@
 # publications
 
-Terms and Conditions:
+Terms and conditions:
 1. Works introduced here are protected by intellectual property rights unless stated otherwise.
 2. Copies can be downloaded for non-commercial research.
 3. Written permission is required for extensive quotation or reproduction.
