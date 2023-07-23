@@ -1,4 +1,4 @@
-# publications
+# linguistics
 
 Terms and conditions:
 1. Works introduced here are protected by intellectual property rights unless otherwise stated.
