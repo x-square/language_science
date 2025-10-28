@@ -1,4 +1,4 @@
-# language-science
+# Language Science
 
 Terms and conditions:
 
